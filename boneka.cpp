@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namesapce std;
+using namespace std;
 
 class boneka{
 	public:
@@ -14,5 +14,8 @@ int main(){
 	
 	beruang.warna ="coklat";
 	beruang.ukuran ="besar";
+	
+	cout<<"Warna boneka beruang "<< (Beruang.warna)<<endl;
+	cout<<"Harga sesuai label "<< (Beruang.ukuran)<<endl;
 }
 
