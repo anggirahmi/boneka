@@ -18,10 +18,10 @@ int main(){
 	cout<<"Warna boneka beruang "<< (beruang.warna)<<endl;
 	cout<<"Harga sesuai label "<< (beruang.ukuran)<<endl;
 	
-	beruang.bahan("Bahan busanya sangat lembut");
+	beruang.bahan("Busanya sangat lembut");
 }
 
 void boneka::bahan(string busa){
-	cout<<""
+	cout<<"Bahannya"
 }
 
