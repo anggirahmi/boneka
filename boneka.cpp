@@ -17,5 +17,7 @@ int main(){
 	
 	cout<<"Warna boneka beruang "<< (Beruang.warna)<<endl;
 	cout<<"Harga sesuai label "<< (Beruang.ukuran)<<endl;
+	
+	Beruang.bahan("Bahan busanya sangat lembut");
 }
 
