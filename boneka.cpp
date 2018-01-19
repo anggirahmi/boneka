@@ -22,6 +22,6 @@ int main(){
 }
 
 void boneka::bahan(string busa){
-	cout<<"Jangan ragukan bahannya "<<bahan<<<" Barangnya Premium loohhh "<<endl;
+	cout<<"Jangan ragukan bahannya "<<busa<<" Barangnya Premium loohhh "<<endl;
 }
 
