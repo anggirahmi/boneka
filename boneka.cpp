@@ -15,10 +15,10 @@ int main(){
 	beruang.warna ="coklat";
 	beruang.ukuran =30;
 	
-	cout<<"Warna boneka beruang "<< (Beruang.warna)<<endl;
-	cout<<"Harga sesuai label "<< (Beruang.ukuran)<<endl;
+	cout<<"Warna boneka beruang "<< (beruang.warna)<<endl;
+	cout<<"Harga sesuai label "<< (beruang.ukuran)<<endl;
 	
-	Beruang.bahan("Bahan busanya sangat lembut");
+	beruang.bahan("Bahan busanya sangat lembut");
 }
 
 void boneka::bahan(string busa){
